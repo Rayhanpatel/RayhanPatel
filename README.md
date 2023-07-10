@@ -1,5 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanpatel" /> </p>
+
 <h1 align="center">Hi!👋, I'm Rayhan Patel</h1>
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
+
+
 
 - 📍 Based in **Chennai, India**. From **Hyderabad, India**.
 - 🎓 Pursuing a **B.E./B.Tech  Computer Science and Engineering** at **B.S. Abdur Rahman Crescent Institute of Science and Technology**.
@@ -13,6 +17,10 @@ My current favourite technologies are [LLM](),[AWS] ,  [React](https://reactjs.o
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanpatel&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="rayhanpatel" /></p>
+</div>
+
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanpatel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="rayhanpatel" /></p>
 </div>
 
 <div align="center">
