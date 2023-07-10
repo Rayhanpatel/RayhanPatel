@@ -10,7 +10,7 @@
 - 💻 I specialise in **Machine learning**, **MERN Stack** and **managing monorepos**.
 - 🚀 Currently working on [Langchain](https://github.com/hwchase17/langchain), developing products integrating llm models.
 
-My current favourite technologies are [LLM](),[AWS] ,  [React](https://reactjs.org), [Next](https://nextjs.org), [Graphql](https://graphql.org).
+My current favourite technologies are [LLM](),[AWS EC2](), [AWS Lambda](),  [React](https://reactjs.org), [Next](https://nextjs.org), [Graphql](https://graphql.org).
 
 <br>
 <hr>
