@@ -1,42 +1,61 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanpatel" /> </p>
-
-<h1 align="center">Hi!👋, I'm Rayhan Patel</h1>
-<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
-
-
-
-- 📍 Based in **Chennai, India**. From **Hyderabad, India**.
-- 🎓 Pursuing a **B.E./B.Tech  Computer Science and Engineering** at **B.S. Abdur Rahman Crescent Institute of Science and Technology**.
-- 💻 I specialise in **Machine learning**, **MERN Stack** and **managing monorepos**.
-- 🚀 Currently working on [Langchain](https://github.com/hwchase17/langchain), developing products integrating llm models.
-
-My current favourite technologies are [LLM](),[AWS EC2](), [AWS Lambda](),  [React](https://reactjs.org), [Next](https://nextjs.org), [Graphql](https://graphql.org).
-
-<br>
-<hr>
-
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanpatel&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="rayhanpatel" /></p>
+
+# Rayhan Patel
+### Applied ML Engineer & Researcher
+
+MS in Applied Machine Learning @ UMD • Previously Euler AI • Open-source contributor
+
+I build **agentic ML systems** that move beyond demos into reliable products, with a focus on **retrieval**, **evaluation loops**, and **backend ML engineering**.
+
+<a href="https://rayhanpatel.com">
+  <img src="https://img.shields.io/badge/Portfolio-rayhanpatel.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/rayhan-patel-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://arxiv.org/abs/2312.06652">
+  <img src="https://img.shields.io/badge/arXiv-2312.06652-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanpatel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="rayhanpatel" /></p>
-</div>
+---
 
-<div align="center">
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rayhanpatel&theme=github-dark-blue&hide_border=true" alt="Github streak" />
-</p>
-</div>
+## Focus
+- **Retrieval & RAG:** embeddings, reranking, fusion strategies, evaluation
+- **LLM Evaluation:** offline metrics, judge-style evaluation, reliability checks
+- **ML Systems:** production APIs, reproducible experiments, pragmatic infra
 
-<br>
-<hr>
+---
 
-<h3 align="center">Connect with me!</h3>
-<p align="center">
-<a href="https://www.threads.net/@rayhan_patel" target="blank"><img align="center" src="img/threads-by-instagram-vector-logo-seeklogo/threads.svg" alt="rayhanpatel" height="30" width="40" /></a>
-<a href="https://twitter.com/Rayhan__Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayhanpatel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rayhan-patel-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhanpatel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rayhan_patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayhanpatel" height="30" width="40" /></a>
-<a href="https://medium.com/@rayhanbasheerpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rayhanpatel" height="30" width="40" /></a>
-</p>
+## 🏆 Selected Work
+
+### 🔎 [English2SQL](https://github.com/Rayhanpatel/English2SQL)
+Production-grade NL → SQL system over Postgres.  
+- Schema-aware generation with retrieval and validation  
+- **9% accuracy improvement** on benchmark queries via prompt iteration and RAG
+
+### 📈 [AlphaFoundry](https://github.com/Rayhanpatel/MSML-602-Final-Project-alphafoundry-ff5-sp500)
+Fama–French 5 factor modeling with walk-forward backtesting on S&P 500 data.  
+- Rolling-window regression pipeline  
+- Benchmarked against SPY
+
+### 📄 [Domain-Specific LLMs](https://arxiv.org/abs/2312.06652)
+NeurIPS 2023 Muslims in ML Workshop paper.  
+- Evaluation methodologies for domain-faithful LLMs  
+- Analysis of RAG vs fine-tuning tradeoffs
+
+---
+
+## 🛠️ Tech
+**Agentic / LLM:** LangGraph • DSPy • RAG • Guardrails  
+**Evaluation / Tracing:** Langfuse  
+**Backend / Infra:** FastAPI • PostgreSQL • Docker • GCP  
+**Languages:** Python • SQL • C++
+
+---
+
+## Interests
+- Agent-to-Agent (A2A) communication  
+- Universal Commerce Protocols (UCP)  
+- Evaluation-first ML system design
