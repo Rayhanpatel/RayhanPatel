@@ -25,7 +25,7 @@ MS Applied Machine Learning @ UMD · Previously Euler AI (SF) · NeurIPS 2023 ·
 
 ### Background
 
-- **Euler AI (SF)** — Built 5+ production backend services on GCP. Designed LLM evaluation framework (G-Eval). Shipped PII guardrails.
+- **Euler AI** — Built 5+ production backend services on GCP. Designed LLM evaluation framework (G-Eval). Shipped PII guardrails.
 - **Open-Source** — Contributor to [Mem0](https://github.com/mem0ai/mem0) (47k+ ⭐) and [EmbedChain](https://github.com/embedchain/embedchain) — 5+ merged PRs improving memory and RAG.
 - **Research** — Published at NeurIPS 2023 Workshop on evaluation methodologies for domain-specific LLMs.
 
