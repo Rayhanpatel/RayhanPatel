@@ -1,14 +1,16 @@
 <div align="center">
 
 # Rayhan Patel
-### Applied ML Engineer & Researcher
 
-MS in Applied Machine Learning @ UMD • Previously Euler AI • Open-source contributor
+**ML Engineer** building production systems that go beyond demos.
 
-I build **agentic ML systems** that move beyond demos into reliable products, with a focus on **retrieval**, **evaluation loops**, and **backend ML engineering**.
+MS Applied Machine Learning @ UMD · Previously Euler AI (SF) · NeurIPS 2023 · PearVC × OpenAI Hackathon Finalist
 
+<a href="https://chat.rayhanpatel.com">
+  <img src="https://img.shields.io/badge/Try_My_AI-chat.rayhanpatel.com-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
 <a href="https://rayhanpatel.com">
-  <img src="https://img.shields.io/badge/Portfolio-rayhanpatel.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-rayhanpatel.com-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/rayhan-patel-cs/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,41 +23,38 @@ I build **agentic ML systems** that move beyond demos into reliable products, wi
 
 ---
 
-## Focus
-- **Retrieval & RAG:** embeddings, reranking, fusion strategies, evaluation
-- **LLM Evaluation:** offline metrics, judge-style evaluation, reliability checks
-- **ML Systems:** production APIs, reproducible experiments, pragmatic infra
+### Background
+
+- **Euler AI (SF)** — Built 5+ production backend services on GCP. Designed LLM evaluation framework (G-Eval). Shipped PII guardrails.
+- **Open-Source** — Contributor to [Mem0](https://github.com/mem0ai/mem0) (47k+ ⭐) and [EmbedChain](https://github.com/embedchain/embedchain) — 5+ merged PRs improving memory and RAG.
+- **Research** — Published at NeurIPS 2023 Workshop on evaluation methodologies for domain-specific LLMs.
 
 ---
 
-## 🏆 Selected Work
+### Featured Projects
 
-### 🔎 [English2SQL](https://github.com/Rayhanpatel/English2SQL)
-Production-grade NL → SQL system over Postgres.  
-- Schema-aware generation with retrieval and validation  
-- **9% accuracy improvement** on benchmark queries via prompt iteration and RAG
+**💬 [AI Resume Chatbot](https://github.com/Rayhanpatel/Rayhan-Ai-Resume)** · [Try it live →](https://chat.rayhanpatel.com)
+<br>Production RAG system — FastAPI + React + Vertex AI with streaming SSE.
+8-layer security pipeline · 40% latency reduction via custom async httpx · fail-open resilience design.
 
-### 📈 [AlphaFoundry](https://github.com/Rayhanpatel/MSML-602-Final-Project-alphafoundry-ff5-sp500)
-Fama–French 5 factor modeling with walk-forward backtesting on S&P 500 data.  
-- Rolling-window regression pipeline  
-- Benchmarked against SPY
+**🔎 [English2SQL](https://github.com/Rayhanpatel/English2SQL)**
+<br>Natural language → SQL over Postgres with schema-aware retrieval. **+9% accuracy** via prompt iteration and RAG.
 
-### 📄 [Domain-Specific LLMs](https://arxiv.org/abs/2312.06652)
-NeurIPS 2023 Muslims in ML Workshop paper.  
-- Evaluation methodologies for domain-faithful LLMs  
-- Analysis of RAG vs fine-tuning tradeoffs
+**📄 [Domain-Specific LLMs](https://arxiv.org/abs/2312.06652)**
+<br>NeurIPS 2023 Workshop — evaluation methodologies for domain-faithful LLMs. RAG vs fine-tuning tradeoffs.
 
 ---
 
-## 🛠️ Tech
-**Agentic / LLM:** LangGraph • DSPy • RAG • Guardrails  
-**Evaluation / Tracing:** Langfuse  
-**Backend / Infra:** FastAPI • PostgreSQL • Docker • GCP  
-**Languages:** Python • SQL • C++
+### Tech
+
+**ML / LLM:** RAG · LLM Evaluation · Guardrails · Vector DBs · Fine-tuning
+<br>**Backend:** FastAPI · Python · PostgreSQL · Docker · GCP
+<br>**Observability:** Langfuse · Structured logging · Cost tracking
+<br>**Frontend:** React · Vite · Tailwind CSS
 
 ---
 
-## Interests
-- Agent-to-Agent (A2A) communication  
-- Universal Commerce Protocols (UCP)  
-- Evaluation-first ML system design
+### Currently
+
+🎓 MS in Applied Machine Learning @ University of Maryland (2027)
+<br>🛠️ Building tools that bridge ML research and production
