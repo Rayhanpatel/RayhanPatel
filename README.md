@@ -53,7 +53,7 @@ I am an **MS Applied Machine Learning** student at the **University of Maryland*
 - **Tech**: React, FastAPI, LangChain, PostgreSQL.
 - **Key Feature**: Zero-hallucination guardrails for enterprise data.
 
-### 📈 [AlphaFoundry](https://github.com/Rayhanpatel/MSML-602-Final-Project-alphafoundry-ff5-sp500)
+### 📈 [AlphaFoundry](https://github.com/Rayhanpatel/AlphaFoundry)
 
 **Quantitative Strategy Engine & API**
 > A factor-based investment strategy engine outperforming the S&P 500.
