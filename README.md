@@ -42,7 +42,7 @@ MS Applied Machine Learning @ UMD · Previously Euler AI (SF) · NeurIPS 2023 ·
 
 ### Featured Projects
 
-**💬 [AI Resume Chatbot](https://github.com/Rayhanpatel/Rayhan-Ai-Resume)** · [Try it live →](https://chat.rayhanpatel.com)
+**💬 [AI Resume Chatbot](https://github.com/Rayhanpatel/AI-Resume-Agent)** · [Try it live →](https://chat.rayhanpatel.com)
 <br>Production RAG system — FastAPI + React + Vertex AI with streaming SSE.
 8-layer security pipeline · 40% latency reduction via custom async httpx · fail-open resilience design.
 
