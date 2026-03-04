@@ -11,7 +11,7 @@ Founding engineer at [Euler AI](https://www.eulerai.com). Contributor to [Mem0](
 **[AI Resume Agent](https://github.com/Rayhanpatel/AI-Resume-Agent)** · [Live](https://chat.rayhanpatel.com)
 Production RAG system — FastAPI + React, SSE streaming, 8-layer security pipeline. 5 automated LLM-as-Judge evaluators via Langfuse.
 
-**[PathGuard](https://github.com/Rayhanpatel/PathGuard)** · $17.5K, UMD × Ironsite Hackathon
+**[PathGuard](https://github.com/Rayhanpatel/PathGuard)** · UMD × Ironsite Hackathon
 Real-time construction safety — Grounding DINO + SAM2 + Depth Anything V2. On-device VLM via Apple Neural Engine.
 
 **[FunctionGemma Router](https://github.com/Rayhanpatel/functiongemma-hackathon)** · $5K, Google DeepMind Hackathon
