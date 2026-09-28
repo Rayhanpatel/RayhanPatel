@@ -6,10 +6,10 @@ M.S. Applied Machine Learning, University of Maryland (May 2027). Open to full-t
 
 ### Experience
 
-**3E** · AI Engineer Intern, AI Platform · Jun to Aug 2026\
+**[3E](https://www.3eco.com)** · AI Engineer Intern, AI Platform · Jun to Aug 2026\
 Built the core of a multi-tenant agent-memory MCP service on AWS Lambda and DynamoDB (six operations, deny-by-default tenant access, versioned writes) and its deterministic spec-conformance harness. Found and fixed a warm-container credential leak; the fix landed on main. Benchmarked Hindsight, Cognee and Zep/Graphiti on LoCoMo and LongMemEval, and calibrated an LLM judge against blinded human graders: the rubric, not the judge model, was the accuracy lever.
 
-**[Euler AI](https://www.eulerai.com)** · Founding ML/Software Engineer · Mar to Jul 2025\
+**[Euler AI](https://eulerai.app)** · Founding ML/Software Engineer · Mar to Jul 2025\
 Built a conversational shopping agent on FastAPI (intent routing, a reranker, PII guardrails) and a G-Eval pipeline that measured hallucination across the product.
 
 ### Research
